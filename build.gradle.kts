@@ -17,7 +17,7 @@ repositories {
 }
 
 extra.apply {
-    set("ktor_version", "1.1.1")
+    set("ktor_version", "1.2.1")
     set("logback_version", "1.2.3")
     set("mockk_version", "1.9")
     set("spek_version", "2.0.5")
